@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BarterBuddy</string>
+    <string name="desc_img_story">Gambar Story</string>
+    <string name="gambar_hasil_upload">Gambar Hasil Upload</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="belum_daftar">Belum Daftar?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="gambar_story">Gambar Story</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="nama">Nama</string>
+    <string name="logout">logout</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="logo_dicoding_story">Logo Dicoding Story</string>
+    <string name="belum_punya_akun">Belum Punya Akun?</string>
+    <string name="email_created">Email telah terdaftar</string>
+    <string name="password_invalid_input">Password harus memiliki 6 karakter atau lebih</string>
+    <string name="please_input_image">Masukkan gambar</string>
+    <string name="please_input_description">Masukkan deskripsi</string>
+    <string name="email_must_valid">Email Harus Valid</string>
+    <string name="invalid_password">Password anda salah</string>
+    <string name="user_not_found">Akun Tidak Ditemukan</string>
+    <string name="error_empty_description">Deskripsi Tidak Boleh Kosong</string>
+</resources>
